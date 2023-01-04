@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌳️🌐️💾️ The Bliss Browser is a powerful, hyper-customizable web browser that is designed for the Quantum Meadows operating system. It is also planned to work with other Linux distributions, and other operating systems.
