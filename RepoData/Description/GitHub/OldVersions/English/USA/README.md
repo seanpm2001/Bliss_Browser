@@ -1,0 +1,1 @@
+🌳️🌐️💾️ The Bliss Browser is a powerful, hyper-customizable web browser that is designed for the Quantum Meadows operating system. It is also planned to work with other Linux distributions, and other operating systems.
