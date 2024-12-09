@@ -1,21 +1,27 @@
 ////URLL-version=3;
+//// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
-//// FileName: Bliss_Browser_REPOLIST.urll
-//// URL list for Bliss Browser repositories
-//// 199 total repository links (as of 2023, Tuesday, August 22nd at 01:21 pm PST), Version 1.
-//// Note: Talla Browser is not included into this count.
+//// A list of all Bliss Browser project repositories by @seanpm2001
+//// As of 2024, Sunday, December 8th
+
+//// ----------------------------------------------------- \\\\
+//// Bliss Browser Project
+//// ----------------------------------------------------- \\\\
 
 //// Bliss Browser main (2)
+
 https://github.com/seanpm2001/Bliss_Browser
 https://github.com/seanpm2001/Bliss_Browser_Docs
 
 //// Bliss Browser core (4)
+
 https://github.com/seanpm2001/Bliss_Browser_Core
 https://github.com/seanpm2001/Bliss_Browser_Settings
 https://github.com/seanpm2001/Bliss_Browser_Installer
 https://github.com/seanpm2001/Bliss_Browser_Uninstaller
 
 //// Bliss Browser support modules (53)
+
 https://github.com/seanpm2001/Bliss_Browser_VideoPlayer
 https://github.com/seanpm2001/Bliss_Browser_PDFMode
 https://github.com/seanpm2001/Bliss_Browser_ImageViewer
@@ -71,6 +77,7 @@ https://github.com/seanpm2001/Bliss_Browser_Performance-Monitor
 https://github.com/seanpm2001/Bliss_Browser_Task-Manager
 
 //// Bliss Browser OSMode ports (36)
+
 https://github.com/seanpm2001/Bliss_Browser_OSMode
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Ubuntu-Shell
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Debian-Shell
@@ -109,6 +116,7 @@ https://github.com/seanpm2001/Bliss_Browser_OSMode_RaspbianOS_Shell
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Manjaro_Shell
 
 //// Bliss Browser OSMode components (5)
+
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Settings
 https://github.com/seanpm2001/Bliss_Browser_OSMode_FileManager
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader
@@ -116,6 +124,7 @@ https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Desktop
 
 //// Bliss Browser Language Support (106)
+
 https://github.com/seanpm2001/Bliss_Browser_Languages
 https://github.com/seanpm2001/Bliss_Browser_ActionServerPages
 https://github.com/seanpm2001/Bliss_Browser_ActionServerPagesDotNET
@@ -218,14 +227,37 @@ https://github.com/seanpm2001/Bliss_Browser_RAML
 https://github.com/seanpm2001/Bliss_Browser_Ermine
 https://github.com/seanpm2001/Bliss_Browser_Processing
 https://github.com/seanpm2001/Bliss_Browser_MGears
-https://github.com/seanpm2001/Bliss_Browser_Google-Apps-Script
+https://github.com/seanpm2001/Bliss_Browser_Lezer
 https://github.com/seanpm2001/Bliss_Browser_Mojom
 https://github.com/seanpm2001/Bliss_Browser_DataWeave
 https://github.com/seanpm2001/Bliss_Browser_Gremlin
 
-//// File info:
+//// ----------------------------------------------------- \\\\
+//// Repo count (Bliss Browser): 206
+//// 2+4+53+36+5+106=206
+//// ----------------------------------------------------- \\\\
 
-//// File version: 2 (2024, Saturday, December 7th at 09:18 pm PST)
-//// Line count (including blank lines and compiler line): 232
+//// ----------------------------------------------------- \\\\
+//// See also (2)
+
+//// Talla Browser (my previous attempt at a web browser) (2)
+
+https://github.com/seanpm2001/Talla-Browser
+https://github.com/seanpm2001/Talla_Browser_Docs
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (See also): 2
+//// 2+0=2
+//// ----------------------------------------------------- \\\\
+//// Total repo count: 208
+//// 206+2=206
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// File info
+//// File type: URLL v3 list file (*.urll)
+//// File version: 3 (2024, Sunday, December 8th at 05:12 pm PST)
+//// Line count (including blank lines and compiler line): 264
+//// ----------------------------------------------------- \\\\
 
 //// End of file
