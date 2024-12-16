@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2024, Sunday, December 8th
+//// As of 2024, Sunday, December 15th
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -123,7 +123,7 @@ https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader
 https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Desktop
 
-//// Bliss Browser Language Support (106)
+//// Bliss Browser Language Support (108)
 
 https://github.com/seanpm2001/Bliss_Browser_Languages
 https://github.com/seanpm2001/Bliss_Browser_ActionServerPages
@@ -231,10 +231,12 @@ https://github.com/seanpm2001/Bliss_Browser_Lezer
 https://github.com/seanpm2001/Bliss_Browser_Mojom
 https://github.com/seanpm2001/Bliss_Browser_DataWeave
 https://github.com/seanpm2001/Bliss_Browser_Gremlin
+https://github.com/seanpm2001/Bliss_Browser_Wasp
+https://github.com/seanpm2001/Bliss_Browser_Sweave
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 206
-//// 2+4+53+36+5+106=206
+//// Repo count (Bliss Browser): 208
+//// 2+4+53+36+5+108=208
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -249,15 +251,15 @@ https://github.com/seanpm2001/Talla_Browser_Docs
 //// Repo count (See also): 2
 //// 2+0=2
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 208
-//// 206+2=206
+//// Total repo count: 210
+//// 208+2=210
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 3 (2024, Sunday, December 8th at 05:12 pm PST)
-//// Line count (including blank lines and compiler line): 264
+//// File version: 4 (2024, Sunday, December 15th at 08:07 pm PST)
+//// Line count (including blank lines and compiler line): 266
 //// ----------------------------------------------------- \\\\
 
 //// End of file
