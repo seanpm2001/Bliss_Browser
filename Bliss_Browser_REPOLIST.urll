@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2024, Monday, December 16th
+//// As of 2024, Tuesday, December 17th
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -123,7 +123,7 @@ https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader
 https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Desktop
 
-//// Bliss Browser Language Support (116)
+//// Bliss Browser Language Support (124)
 
 https://github.com/seanpm2001/Bliss_Browser_Languages
 https://github.com/seanpm2001/Bliss_Browser_ActionServerPages
@@ -241,33 +241,53 @@ https://github.com/seanpm2001/Bliss_Browser_Beef
 https://github.com/seanpm2001/Bliss_Browser_Harbour
 https://github.com/seanpm2001/Bliss_Browser_Fuzzy-Markup-Language-FML
 https://github.com/seanpm2001/Bliss_Browser_Tampio
+https://github.com/seanpm2001/Bliss_Browser_Cairo
+https://github.com/seanpm2001/Bliss_Browser_Wisp
+https://github.com/seanpm2001/Bliss_Browser_XBasePlusPlus
+https://github.com/seanpm2001/Bliss_Browser_SmPL
+https://github.com/seanpm2001/Bliss_Browser_GolfScript
+https://github.com/seanpm2001/Bliss_Browser_BennuGD
+https://github.com/seanpm2001/Bliss_Browser_Triton
+https://github.com/seanpm2001/Bliss_Browser_MQL4
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 216
-//// 2+4+53+36+5+116=216
+//// Repo count (Bliss Browser): 224
+//// 2+4+53+36+5+124=224
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// See also (2)
 
-//// Talla Browser (my previous attempt at a web browser) (2)
+//// Talla Browser (2)
+//// My previous attempt at a web browser, direct predecessor to Bliss Browser.
 
 https://github.com/seanpm2001/Talla-Browser
 https://github.com/seanpm2001/Talla_Browser_Docs
 
+//// Savannah Browser (2)
+//// WacOS web browser
+
+https://github.com/seanpm2001/WacOS_Savannah_Browser
+https://github.com/seanpm2001/Savannah_Browser_Docs
+
+//// Silkworm Web Browser (1)
+//// BlazeOS web browser
+
+https://github.com/seanpm2001/Silkworm_web_browser
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (See also): 2
-//// 2+0=2
+//// Repo count (See also): 5
+//// 2+2+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 218
-//// 216+2=218
+//// Total repo count: 229
+//// 224+5=229
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 5 (2024, Monday, December 16th at 03:32 pm PST)
-//// Line count (including blank lines and compiler line): 274
+//// File version: 6 (2024, Tuesday, December 17th at 07:42 pm PST)
+//// Line count (including blank lines and compiler line): 294
 //// ----------------------------------------------------- \\\\
 
 //// End of file
