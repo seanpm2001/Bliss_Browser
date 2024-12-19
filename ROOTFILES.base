@@ -1,4 +1,5 @@
 /.github/
+/.gitlab/
 /Docs/
 /OldVersions/
 /RepoData/
@@ -9,15 +10,19 @@
 /404.jpeg
 /404.md
 /AUTHORS
+/AUTHORS.md
 /AUTOMATE2001.yaml
 /AUTOMATE2001.yml
 /Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png
+/Bliss_Browser_REPOLIST.urll
 /CONTRIBUTING.md
 /COPYINGL
 /CREDITS
+/CREDITS.wiki
 /DRM-free_label.en.svg
 /INITIAL_COMMIT.txt
 /INSTALL
+/INSTALL.rst
 /K.desktop
 /LICENSE-GPL.py
 /LICENSE-GPL.py3
