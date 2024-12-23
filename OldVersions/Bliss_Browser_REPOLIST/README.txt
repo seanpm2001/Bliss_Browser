@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2024, Saturday, December 21st
+//// As of 2024, Sunday, December 22nd
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -123,7 +123,7 @@ https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader
 https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Desktop
 
-//// Bliss Browser Language Support (157)
+//// Bliss Browser Language Support (167)
 
 https://github.com/seanpm2001/Bliss_Browser_Languages
 https://github.com/seanpm2001/Bliss_Browser_ActionServerPages
@@ -282,10 +282,20 @@ https://github.com/seanpm2001/Bliss_Browser_NuShell
 https://github.com/seanpm2001/Bliss_Browser_Nearley
 https://github.com/seanpm2001/Bliss_Browser_Flix
 https://github.com/seanpm2001/Bliss_Browser_vCard
+https://github.com/seanpm2001/Bliss_Browser_SWRL
+https://github.com/seanpm2001/Bliss_Browser_SQWRL
+https://github.com/seanpm2001/Bliss_Browser_RuleML
+https://github.com/seanpm2001/Bliss_Browser_DAML
+https://github.com/seanpm2001/Bliss_Browser_R2ML
+https://github.com/seanpm2001/Bliss_Browser_RIF
+https://github.com/seanpm2001/Bliss_Browser_LegalXML
+https://github.com/seanpm2001/Bliss_Browser_Git-Attributes
+https://github.com/seanpm2001/Bliss_Browser_Text
+https://github.com/seanpm2001/Bliss_Browser_P4
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 257
-//// 2+4+53+36+5+157=257
+//// Repo count (Bliss Browser): 267
+//// 2+4+53+36+5+167=267
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -313,15 +323,15 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// Repo count (See also): 5
 //// 2+2+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 262
-//// 257+5=262
+//// Total repo count: 272
+//// 267+5=272
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 10 (2024, Saturday, December 21st at 07:51 pm PST)
-//// Line count (including blank lines and compiler line): 328
+//// File version: 11 (2024, Sunday, December 22nd at 11:59 pm PST)
+//// Line count (including blank lines and compiler line): 338
 //// ----------------------------------------------------- \\\\
 
 //// End of file
