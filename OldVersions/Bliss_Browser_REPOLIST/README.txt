@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2024, Sunday, December 22nd
+//// As of 2024, Monday, December 23rd
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -123,7 +123,7 @@ https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader
 https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Desktop
 
-//// Bliss Browser Language Support (167)
+//// Bliss Browser Language Support (175)
 
 https://github.com/seanpm2001/Bliss_Browser_Languages
 https://github.com/seanpm2001/Bliss_Browser_ActionServerPages
@@ -292,10 +292,18 @@ https://github.com/seanpm2001/Bliss_Browser_LegalXML
 https://github.com/seanpm2001/Bliss_Browser_Git-Attributes
 https://github.com/seanpm2001/Bliss_Browser_Text
 https://github.com/seanpm2001/Bliss_Browser_P4
+https://github.com/seanpm2001/Bliss_Browser_VRML
+https://github.com/seanpm2001/Bliss_Browser_V8-Torque
+https://github.com/seanpm2001/Bliss_Browser_Visual-Basic
+https://github.com/seanpm2001/Bliss_Browser_JSONiq
+https://github.com/seanpm2001/Bliss_Browser_JSound
+https://github.com/seanpm2001/Bliss_Browser_OpenFormulaSpreadsheetLanguage
+https://github.com/seanpm2001/Bliss_Browser_Just
+https://github.com/seanpm2001/Bliss_Browser_Xonsh
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 267
-//// 2+4+53+36+5+167=267
+//// Repo count (Bliss Browser): 275
+//// 2+4+53+36+5+175=275
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -323,15 +331,15 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// Repo count (See also): 5
 //// 2+2+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 272
-//// 267+5=272
+//// Total repo count: 280
+//// 275+5=280
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 11 (2024, Sunday, December 22nd at 11:59 pm PST)
-//// Line count (including blank lines and compiler line): 338
+//// File version: 12 (2024, Monday, December 23rd at 05:44 pm PST)
+//// Line count (including blank lines and compiler line): 346
 //// ----------------------------------------------------- \\\\
 
 //// End of file
