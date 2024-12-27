@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2024, Wednesday, December 25th
+//// As of 2024, Thursday, December 26th
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -123,7 +123,7 @@ https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader
 https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Desktop
 
-//// Bliss Browser Language Support (191)
+//// Bliss Browser Language Support (193)
 
 https://github.com/seanpm2001/Bliss_Browser_Languages
 https://github.com/seanpm2001/Bliss_Browser_ActionServerPages
@@ -316,10 +316,12 @@ https://github.com/seanpm2001/Bliss_Browser_KakouneScript
 https://github.com/seanpm2001/Bliss_Browser_Simple-File-Verification
 https://github.com/seanpm2001/Bliss_Browser_ChucK
 https://github.com/seanpm2001/Bliss_Browser_Jelly
+https://github.com/seanpm2001/Bliss_Browser_Charcoal
+https://github.com/seanpm2001/Bliss_Browser_Uiua
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 291
-//// 2+4+53+36+5+191=291
+//// Repo count (Bliss Browser): 293
+//// 2+4+53+36+5+193=293
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -347,15 +349,15 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// Repo count (See also): 5
 //// 2+2+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 296
-//// 291+5=296
+//// Total repo count: 298
+//// 293+5=298
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 14 (2024, Wednesday, December 25th at 02:32 pm PST)
-//// Line count (including blank lines and compiler line): 362
+//// File version: 15 (2024, Thursday, December 26th at 07:40 pm PST)
+//// Line count (including blank lines and compiler line): 364
 //// ----------------------------------------------------- \\\\
 
 //// End of file
