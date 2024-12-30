@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2024, Sunday, December 29th
+//// As of 2024, Monday, December 30th
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -123,7 +123,7 @@ https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader
 https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Desktop
 
-//// Bliss Browser Language Support (212)
+//// Bliss Browser Language Support (220)
 
 https://github.com/seanpm2001/Bliss_Browser_Languages
 https://github.com/seanpm2001/Bliss_Browser_ActionServerPages
@@ -337,14 +337,32 @@ https://github.com/seanpm2001/Bliss_Browser_Yang
 https://github.com/seanpm2001/Bliss_Browser_XPages
 https://github.com/seanpm2001/Bliss_Browser_REALBasic
 https://github.com/seanpm2001/Bliss_Browser_WAST
+https://github.com/seanpm2001/Bliss_Browser_Wollok
+https://github.com/seanpm2001/Bliss_Browser_PowerBuilder
+https://github.com/seanpm2001/Bliss_Browser_Cypher
+https://github.com/seanpm2001/Bliss_Browser_DocBook
+https://github.com/seanpm2001/Bliss_Browser_BBCode
+https://github.com/seanpm2001/Bliss_Browser_UrWeb
+https://github.com/seanpm2001/Bliss_Browser_Kickstart
+https://github.com/seanpm2001/Bliss_Browser_Kit
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 312
-//// 2+4+53+36+5+212=312
+//// Repo count (Bliss Browser): 320
+//// 2+4+53+36+5+220=320
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// See also (2)
+
+//// Operating Systems
+
+//// Meadows operating system (2)
+//// The Operating System Bliss Browser is associated with
+
+https://github.com/seanpm2001/qMeadows
+https://github.com/seanpm2001/Meadows
+
+//// Other browsers
 
 //// Talla Browser (2)
 //// My previous attempt at a web browser, direct predecessor to Bliss Browser.
@@ -365,18 +383,18 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// Coming soon https://github.com/seanpm2001/Silkworm_web_browser_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (See also): 5
-//// 2+2+1=5
+//// Repo count (See also): 7
+//// 2+2+2+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 317
-//// 312+5=317
+//// Total repo count: 327
+//// 320+7=327
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 17 (2024, Sunday, December 29th at 07:06 pm PST)
-//// Line count (including blank lines and compiler line): 383
+//// File version: 18 (2024, Monday, December 30th at 02:56 pm PST)
+//// Line count (including blank lines and compiler line): 401
 //// ----------------------------------------------------- \\\\
 
 //// End of file
