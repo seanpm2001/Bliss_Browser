@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2024, Tuesday, December 31st
+//// As of 2025, Monday, January 6th
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -123,7 +123,7 @@ https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader
 https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Desktop
 
-//// Bliss Browser Language Support (228)
+//// Bliss Browser Language Support (229)
 
 https://github.com/seanpm2001/Bliss_Browser_Languages
 https://github.com/seanpm2001/Bliss_Browser_ActionServerPages
@@ -353,10 +353,11 @@ https://github.com/seanpm2001/Bliss_Browser_Hoon
 https://github.com/seanpm2001/Bliss_Browser_Cue-Sheet
 https://github.com/seanpm2001/Bliss_Browser_Curry
 https://github.com/seanpm2001/Bliss_Browser_DNS-Zone
+https://github.com/seanpm2001/Bliss_Browser_Easybuild
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 328
-//// 2+4+53+36+5+228=328
+//// Repo count (Bliss Browser): 329
+//// 2+4+53+36+5+229=329
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -394,15 +395,15 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// Repo count (See also): 7
 //// 2+2+2+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 335
-//// 328+7=335
+//// Total repo count: 336
+//// 329+7=336
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 19 (2024, Tuesday, December 31st at 12:24 pm PST)
-//// Line count (including blank lines and compiler line): 409
+//// File version: 20 (2025, Monday, January 6th at 03:56 pm PST)
+//// Line count (including blank lines and compiler line): 410
 //// ----------------------------------------------------- \\\\
 
 //// End of file
