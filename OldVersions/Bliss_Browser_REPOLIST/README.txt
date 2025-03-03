@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2025, Saturday, March 1st
+//// As of 2025, Sunday, March 2nd
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -123,7 +123,7 @@ https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader
 https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Desktop
 
-//// Bliss Browser Language Support (321)
+//// Bliss Browser Language Support (331)
 
 https://github.com/seanpm2001/Bliss_Browser_Languages
 https://github.com/seanpm2001/Bliss_Browser_ActionServerPages
@@ -446,10 +446,20 @@ https://github.com/seanpm2001/Bliss_Browser_GAML
 https://github.com/seanpm2001/Bliss_Browser_GAMS
 https://github.com/seanpm2001/Bliss_Browser_Gemini
 https://github.com/seanpm2001/Bliss_Browser_Genshi
-
+https://github.com/seanpm2001/Bliss_Browser_edn
+https://github.com/seanpm2001/Bliss_Browser_NanoRC
+https://github.com/seanpm2001/Bliss_Browser_NetLinx
+https://github.com/seanpm2001/Bliss_Browser_Email
+https://github.com/seanpm2001/Bliss_Browser_XC
+https://github.com/seanpm2001/Bliss_Browser_MoonBit
+https://github.com/seanpm2001/Bliss_Browser_JSONLD
+https://github.com/seanpm2001/Bliss_Browser_MiniYAML
+https://github.com/seanpm2001/Bliss_Browser_NWScript
+https://github.com/seanpm2001/Bliss_Browser_Praat
+-
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 421
-//// 2+4+53+36+5+321=421
+//// Repo count (Bliss Browser): 431
+//// 2+4+53+36+5+331=431
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -494,8 +504,8 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 33 (2025, Saturday, March 1st at 05:13 pm PST)
-//// Line count (including blank lines and compiler line): 502
+//// File version: 34 (2025, Sunday, March 2nd at 05:12 pm PST)
+//// Line count (including blank lines and compiler line): 512
 //// ----------------------------------------------------- \\\\
 
 //// End of file
