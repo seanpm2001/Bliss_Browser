@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2025, Tuesday, March 18th
+//// As of 2025, Friday, March 21st
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -124,6 +124,15 @@ https://github.com/seanpm2001/Bliss_Browser_OSMode_FileManager
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader
 https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu
 https://github.com/seanpm2001/Bliss_Browser_OSMode_Desktop
+
+//// Bliss Browser Internet Mode (6)
+
+https://github.com/seanpm2001/Bliss-Browser_InternetMode
+https://github.com/seanpm2001/Bliss-Browser_InternetMode_Docs
+https://github.com/seanpm2001/Bliss-Browser_InternetMode_WorldWideWeb
+https://github.com/seanpm2001/Bliss-Browser_InternetMode_WorldWideWeb_Docs
+https://github.com/seanpm2001/Bliss-Browser_InternetMode_OpenXanadu
+https://github.com/seanpm2001/Bliss-Browser_InternetMode_OpenXanadu_Docs
 
 //// Bliss Browser Language Support (341)
 
@@ -470,8 +479,8 @@ https://github.com/seanpm2001/Bliss_Browser_Jule
 https://github.com/seanpm2001/Bliss_Browser_Glimmer-JS
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 443
-//// 2+4+55+36+5+341=443
+//// Repo count (Bliss Browser): 449
+//// 2+4+55+36+5+6+341=449
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -509,15 +518,15 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// Repo count (See also): 7
 //// 2+2+2+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 450
-//// 443+7=450
+//// Total repo count: 456
+//// 449+7=456
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 37 (2025, Wednesday, March 19th at 03:44 pm PST)
-//// Line count (including blank lines and compiler line): 524
+//// File version: 38 (2025, Friday, March 21st at 04:13 pm PST)
+//// Line count (including blank lines and compiler line): 533
 //// ----------------------------------------------------- \\\\
 
 //// End of file
