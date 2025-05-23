@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2025, Monday, May 5th
+//// As of 2025, Thursday, May 22nd
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -141,15 +141,22 @@ https://github.com/seanpm2001/Bliss-Browser_OpenXanadu_Tumblers_Docs
 
 //// Components
 
-//// Bliss Browser Address Bar (2)
+//// //// Bliss Browser Address Bar (2)
 
 https://github.com/seanpm2001/Bliss-Browser_Address-Bar
 https://github.com/seanpm2001/Bliss-Browser_Address-Bar_Docs
 
-//// Bliss Browser Reload Button (2)
+//// //// Bliss Browser Reload Button (2)
 
 https://github.com/seanpm2001/Bliss-Browser_ReloadButton
 https://github.com/seanpm2001/Bliss-Browser_ReloadButton_Docs
+
+//// Standards
+
+//// //// Bliss Browser Web Accessibility Initiative (2)
+
+https://github.com/seanpm2001/Bliss-Browser_Web-Accessibility-Initiative-WAI
+https://github.com/seanpm2001/Bliss-Browser_Web-Accessibility-Initiative-WAI_Docs
 
 //// Bliss Browser Offline Games (2)
 
@@ -506,8 +513,8 @@ https://github.com/seanpm2001/Bliss_Browser_Jule
 https://github.com/seanpm2001/Bliss_Browser_Glimmer-JS
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 459
-//// 2+4+55+36+5+6+2+2+2+2+2+341=459
+//// Repo count (Bliss Browser): 461
+//// 2+4+55+36+5+6+2+2+2+2+2+2+341=461
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -545,15 +552,15 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// Repo count (See also): 7
 //// 2+2+2+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 466
-//// 459+7=466
+//// Total repo count: 468
+//// 461+7=468
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 41 (2025, Monday, May 5th at 06:38 pm PST)
-//// Line count (including blank lines and compiler line): 560
+//// File version: 42 (2025, Thursday, May 22nd at 05:26 pm PST)
+//// Line count (including blank lines and compiler line): 567
 //// ----------------------------------------------------- \\\\
 
 //// End of file
