@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2025, Friday, May 23rd
+//// As of 2025, Monday, May 26th
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -168,10 +168,16 @@ https://github.com/seanpm2001/Bliss-Browser_Offline-Games_Docs
 https://github.com/seanpm2001/Bliss-Browser_Offline-Games_Browser-Battle
 https://github.com/seanpm2001/Bliss-Browser_Offline-Games_Browser-Battle_Docs
 
-//// Bliss Browser Extensions (2)
+//// Bliss Browser Extensions (8)
 
 https://github.com/seanpm2001/Bliss_Browser_Extensions
 https://github.com/seanpm2001/Bliss_Browser_Extensions_Docs
+https://github.com/seanpm2001/Bliss_Browser_Extensions_Domainiac
+https://github.com/seanpm2001/Bliss_Browser_Extensions_Domainiac_Docs
+https://github.com/seanpm2001/Bliss_Browser_Extensions_AdBlockCollection
+https://github.com/seanpm2001/Bliss_Browser_Extensions_AdBlockCollection_Docs
+https://github.com/seanpm2001/Bliss_Browser_Extensions_PopupBlocker
+https://github.com/seanpm2001/Bliss_Browser_Extensions_PopupBlocker_Docs
 
 //// Bliss Browser Language Support (341)
 
@@ -519,7 +525,7 @@ https://github.com/seanpm2001/Bliss_Browser_Glimmer-JS
 
 //// ----------------------------------------------------- \\\\
 //// Repo count (Bliss Browser): 463
-//// 2+4+55+36+5+6+2+2+2+2+2+2+2+341=463
+//// 2+4+55+36+5+6+2+2+2+2+2+2+8+341=463
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -564,8 +570,8 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 43 (2025, Friday, May 23rd at 06:00 pm PST)
-//// Line count (including blank lines and compiler line): 572
+//// File version: 44 (2025, Monday, May 26th at 06:01 pm PST)
+//// Line count (including blank lines and compiler line): 578
 //// ----------------------------------------------------- \\\\
 
 //// End of file
