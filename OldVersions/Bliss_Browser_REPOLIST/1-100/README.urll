@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2025, Wednesday, June 11th
+//// As of 2025, Thursday, June 12th
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -179,7 +179,7 @@ https://github.com/seanpm2001/Bliss_Browser_Extensions_AdBlockCollection_Docs
 https://github.com/seanpm2001/Bliss_Browser_Extensions_PopupBlocker
 https://github.com/seanpm2001/Bliss_Browser_Extensions_PopupBlocker_Docs
 
-//// Bliss Browser Language Support (357)
+//// Bliss Browser Language Support (365)
 
 https://github.com/seanpm2001/Bliss_Browser_Languages
 https://github.com/seanpm2001/Bliss_Browser_ActionServerPages
@@ -538,10 +538,18 @@ https://github.com/seanpm2001/Bliss_Browser_Dex
 https://github.com/seanpm2001/Bliss_Browser_ISPC
 https://github.com/seanpm2001/Bliss_Browser_Jai
 https://github.com/seanpm2001/Bliss_Browser_Mask
+https://github.com/seanpm2001/Bliss_Browser_MiniZinc
+https://github.com/seanpm2001/Bliss_Browser_MiniZinc-Data
+https://github.com/seanpm2001/Bliss_Browser_Move
+https://github.com/seanpm2001/Bliss_Browser_NumPy
+https://github.com/seanpm2001/Bliss_Browser_Pickle
+https://github.com/seanpm2001/Bliss_Browser_Pic
+https://github.com/seanpm2001/Bliss_Browser_Portugol
+https://github.com/seanpm2001/Bliss_Browser_Public-Key
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 479
-//// 2+4+55+36+5+6+2+2+2+2+2+2+8+357=479
+//// Repo count (Bliss Browser): 487
+//// 2+4+55+36+5+6+2+2+2+2+2+2+8+365=487
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -586,8 +594,8 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 46 (2025, Wednesday, June 11th at 06:43 pm PST)
-//// Line count (including blank lines and compiler line): 594
+//// File version: 47 (2025, Thursday, June 12th at 05:33 pm PST)
+//// Line count (including blank lines and compiler line): 602
 //// ----------------------------------------------------- \\\\
 
 //// End of file
