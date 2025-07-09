@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2025, Friday, June 13th
+//// As of 2025, Tuesday, July 8th
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -179,7 +179,7 @@ https://github.com/seanpm2001/Bliss_Browser_Extensions_AdBlockCollection_Docs
 https://github.com/seanpm2001/Bliss_Browser_Extensions_PopupBlocker
 https://github.com/seanpm2001/Bliss_Browser_Extensions_PopupBlocker_Docs
 
-//// Bliss Browser Language Support (373)
+//// Bliss Browser Language Support (374)
 
 https://github.com/seanpm2001/Bliss_Browser_Languages
 https://github.com/seanpm2001/Bliss_Browser_ActionServerPages
@@ -554,10 +554,11 @@ https://github.com/seanpm2001/Bliss_Browser_Survex-Data
 https://github.com/seanpm2001/Bliss_Browser_Witcher-Script
 https://github.com/seanpm2001/Bliss_Browser_World-of-Warcraft-Addon-Data
 https://github.com/seanpm2001/Bliss_Browser_WGet-Config
+https://github.com/seanpm2001/Bliss_Browser_TextMate-Properties
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 495
-//// 2+4+55+36+5+6+2+2+2+2+2+2+8+373=495
+//// Repo count (Bliss Browser): 496
+//// 2+4+55+36+5+6+2+2+2+2+2+2+8+374=496
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -602,8 +603,8 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 48 (2025, Friday, June 13th at 05:53 pm PST)
-//// Line count (including blank lines and compiler line): 610
+//// File version: 49 (2025, Tuesday, June 14th at 07:37 pm PST)
+//// Line count (including blank lines and compiler line): 611
 //// ----------------------------------------------------- \\\\
 
 //// End of file
