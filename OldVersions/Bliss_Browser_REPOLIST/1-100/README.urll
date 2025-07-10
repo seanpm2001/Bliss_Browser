@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2025, Tuesday, July 8th
+//// As of 2025, Wednesday, July 9th
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -178,6 +178,17 @@ https://github.com/seanpm2001/Bliss_Browser_Extensions_AdBlockCollection
 https://github.com/seanpm2001/Bliss_Browser_Extensions_AdBlockCollection_Docs
 https://github.com/seanpm2001/Bliss_Browser_Extensions_PopupBlocker
 https://github.com/seanpm2001/Bliss_Browser_Extensions_PopupBlocker_Docs
+
+//// Bliss Browser WebChild (8)
+
+https://github.com/seanpm2001/Bliss_Browser_WebChild
+https://github.com/seanpm2001/Bliss_Browser_WebChild_Docs
+https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Toddler-I
+https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Toddler-I_Docs
+https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Toddler-II
+https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Toddler-II_Docs
+https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Child-I
+https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Child-I_Docs
 
 //// Bliss Browser Language Support (374)
 
@@ -557,8 +568,8 @@ https://github.com/seanpm2001/Bliss_Browser_WGet-Config
 https://github.com/seanpm2001/Bliss_Browser_TextMate-Properties
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 496
-//// 2+4+55+36+5+6+2+2+2+2+2+2+8+374=496
+//// Repo count (Bliss Browser): 504
+//// 2+4+55+36+5+6+2+2+2+2+2+2+8+8+374=504
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -596,15 +607,15 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// Repo count (See also): 7
 //// 2+2+2+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 478
-//// 471+7=478
+//// Total repo count: 511
+//// 504+7=511
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 49 (2025, Tuesday, June 14th at 07:37 pm PST)
-//// Line count (including blank lines and compiler line): 611
+//// File version: 50 (2025, Wednesday, July 9th at 06:59 pm PST)
+//// Line count (including blank lines and compiler line): 622
 //// ----------------------------------------------------- \\\\
 
 //// End of file
