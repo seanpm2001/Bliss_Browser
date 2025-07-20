@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2025, Friday, July 18th
+//// As of 2025, Saturday, July 18th
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -198,7 +198,7 @@ https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Teen-I_Docs
 https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Teen-II
 https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Teen-II_Docs
 
-//// Bliss Browser Language Support (375)
+//// Bliss Browser Language Support (385)
 
 https://github.com/seanpm2001/Bliss_Browser_Languages
 https://github.com/seanpm2001/Bliss_Browser_ActionServerPages
@@ -575,10 +575,20 @@ https://github.com/seanpm2001/Bliss_Browser_World-of-Warcraft-Addon-Data
 https://github.com/seanpm2001/Bliss_Browser_WGet-Config
 https://github.com/seanpm2001/Bliss_Browser_TextMate-Properties
 https://github.com/seanpm2001/Bliss-Browser_Terraform-Template
+https://github.com/seanpm2001/Bliss-Browser_SSH-Config
+https://github.com/seanpm2001/Bliss-Browser_Roff-Manpage
+https://github.com/seanpm2001/Bliss-Browser_Readline-Config
+https://github.com/seanpm2001/Bliss-Browser_Propeller-Spin
+https://github.com/seanpm2001/Bliss-Browser_OpenType-Feature-File
+https://github.com/seanpm2001/Bliss-Browser_OpenStep-Property-List
+https://github.com/seanpm2001/Bliss-Browser_OpenRC-RunScript
+https://github.com/seanpm2001/Bliss-Browser_OpenAPI-Specification-V2
+https://github.com/seanpm2001/Bliss-Browser_OpenAPI-Specification-V3
+https://github.com/seanpm2001/Bliss-Browser_OMNeTPP-NED
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 511
-//// 2+4+55+36+5+6+2+2+2+2+2+2+8+16+375=511
+//// Repo count (Bliss Browser): 521
+//// 2+4+55+36+5+6+2+2+2+2+2+2+8+16+385=521
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -616,15 +626,15 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// Repo count (See also): 7
 //// 2+2+2+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 518
-//// 511+7=518
+//// Total repo count: 528
+//// 521+7=528
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 52 (2025, Friday, July 11th at 07:43 pm PST)
-//// Line count (including blank lines and compiler line): 631
+//// File version: 53 (2025, Saturday, July 19th at 07:53 pm PST)
+//// Line count (including blank lines and compiler line): 641
 //// ----------------------------------------------------- \\\\
 
 //// End of file
