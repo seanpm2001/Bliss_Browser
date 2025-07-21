@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2025, Saturday, July 18th
+//// As of 2025, Sunday, July 20th
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -198,7 +198,7 @@ https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Teen-I_Docs
 https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Teen-II
 https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Teen-II_Docs
 
-//// Bliss Browser Language Support (385)
+//// Bliss Browser Language Support (395)
 
 https://github.com/seanpm2001/Bliss_Browser_Languages
 https://github.com/seanpm2001/Bliss_Browser_ActionServerPages
@@ -585,10 +585,20 @@ https://github.com/seanpm2001/Bliss-Browser_OpenRC-RunScript
 https://github.com/seanpm2001/Bliss-Browser_OpenAPI-Specification-V2
 https://github.com/seanpm2001/Bliss-Browser_OpenAPI-Specification-V3
 https://github.com/seanpm2001/Bliss-Browser_OMNeTPP-NED
+https://github.com/seanpm2001/Bliss-Browser_OMNeTPP-MSG
+https://github.com/seanpm2001/Bliss-Browser_GMIC
+https://github.com/seanpm2001/Bliss-Browser_Zmodel
+https://github.com/seanpm2001/Bliss-Browser_WebAssembly-Interface-Type
+https://github.com/seanpm2001/Bliss-Browser_Untyped-Plutus-Core
+https://github.com/seanpm2001/Bliss-Browser_TypeSpec
+https://github.com/seanpm2001/Bliss-Browser_Tor-Config
+https://github.com/seanpm2001/Bliss-Browser_TL-Verilog
+https://github.com/seanpm2001/Bliss-Browser_TI-Program
+https://github.com/seanpm2001/Bliss-Browser_Rocq-Prover
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 521
-//// 2+4+55+36+5+6+2+2+2+2+2+2+8+16+385=521
+//// Repo count (Bliss Browser): 531
+//// 2+4+55+36+5+6+2+2+2+2+2+2+8+16+395=531
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -633,8 +643,8 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 53 (2025, Saturday, July 19th at 07:53 pm PST)
-//// Line count (including blank lines and compiler line): 641
+//// File version: 54 (2025, Sunday, July 20th at 07:58 pm PST)
+//// Line count (including blank lines and compiler line): 651
 //// ----------------------------------------------------- \\\\
 
 //// End of file
