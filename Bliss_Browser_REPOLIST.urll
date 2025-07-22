@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2025, Sunday, July 20th
+//// As of 2025, Monday, July 21st
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -198,7 +198,7 @@ https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Teen-I_Docs
 https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Teen-II
 https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Teen-II_Docs
 
-//// Bliss Browser Language Support (395)
+//// Bliss Browser Language Support (403)
 
 https://github.com/seanpm2001/Bliss_Browser_Languages
 https://github.com/seanpm2001/Bliss_Browser_ActionServerPages
@@ -595,10 +595,18 @@ https://github.com/seanpm2001/Bliss-Browser_Tor-Config
 https://github.com/seanpm2001/Bliss-Browser_TL-Verilog
 https://github.com/seanpm2001/Bliss-Browser_TI-Program
 https://github.com/seanpm2001/Bliss-Browser_Rocq-Prover
+https://github.com/seanpm2001/Bliss-Browser_Record-Jar
+https://github.com/seanpm2001/Bliss-Browser_ReasonLIGO
+https://github.com/seanpm2001/Bliss-Browser_Raw-Token-Data
+https://github.com/seanpm2001/Bliss-Browser_Python-Console
+https://github.com/seanpm2001/Bliss-Browser_Protocol-Buffer-Text-Format
+https://github.com/seanpm2001/Bliss-Browser_PIP-Requirements
+https://github.com/seanpm2001/Bliss-Browser_Object-Data-Instance-Notation
+https://github.com/seanpm2001/Bliss-Browser_BiBTeX-Style
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 531
-//// 2+4+55+36+5+6+2+2+2+2+2+2+8+16+395=531
+//// Repo count (Bliss Browser): 539
+//// 2+4+55+36+5+6+2+2+2+2+2+2+8+16+403=539
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -636,15 +644,15 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// Repo count (See also): 7
 //// 2+2+2+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 528
-//// 521+7=528
+//// Total repo count: 546
+//// 539+7=546
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 54 (2025, Sunday, July 20th at 07:58 pm PST)
-//// Line count (including blank lines and compiler line): 651
+//// File version: 55 (2025, Monday, July 21st at 07:02 pm PST)
+//// Line count (including blank lines and compiler line): 659
 //// ----------------------------------------------------- \\\\
 
 //// End of file
