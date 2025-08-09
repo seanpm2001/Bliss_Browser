@@ -2,7 +2,7 @@
 //// Bliss_Browser_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Bliss Browser project repositories by @seanpm2001
-//// As of 2025, Thursday, August 7th
+//// As of 2025, Friday, August 8th
 
 //// ----------------------------------------------------- \\\\
 //// Bliss Browser Project
@@ -620,10 +620,16 @@ https://github.com/seanpm2001/Bliss-Browser_HTML-ERB
 https://github.com/seanpm2001/Bliss-Browser_HTML-EEX
 https://github.com/seanpm2001/Bliss-Browser_HTML-ECR
 https://github.com/seanpm2001/Bliss-Browser_RON
+https://github.com/seanpm2001/Bliss-Browser_Elvish-Transcript
+https://github.com/seanpm2001/Bliss-Browser_Genero-Per
+https://github.com/seanpm2001/Bliss-Browser_Daslang
+https://github.com/seanpm2001/Bliss-Browser_Edje-Data-Collection
+https://github.com/seanpm2001/Bliss-Browser_SPARQL
+https://github.com/seanpm2001/Bliss-Browser_Sail
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Bliss Browser): 556
-//// 2+4+55+36+5+6+2+2+2+2+2+2+8+16+419=556
+//// Repo count (Bliss Browser): 563
+//// 2+4+55+36+5+6+2+2+2+2+2+2+8+16+426=563
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -661,15 +667,15 @@ https://github.com/seanpm2001/Silkworm_web_browser
 //// Repo count (See also): 7
 //// 2+2+2+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 563
-//// 556+7=563
+//// Total repo count: 570
+//// 563+7=570
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 59 (2025, Thursday, August 7th at 09:09 pm PST)
-//// Line count (including blank lines and compiler line): 676
+//// File version: 60 (2025, Friday, August 8th at 08:47 pm PST)
+//// Line count (including blank lines and compiler line): 682
 //// ----------------------------------------------------- \\\\
 
 //// End of file
